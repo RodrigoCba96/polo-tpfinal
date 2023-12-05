@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "titulo": "Introducción a la Programación",
+        "descripcion": "Un curso introductorio para aprender los conceptos básicos de la programación.",
+        "instructor": "Juan Pérez",
+        "duracion_horas": 40,
+        "fecha_inicio": "2023-01-15",
+        "precio": 50.00,
+        "disponible": true,
+        "instituto": "Instituto de Tecnología XYZ",
+        "latitud": 12.3456,
+        "longitud": -78.9101
+    },
+    {
+        "id": 2,
+        "titulo": "Diseño Web Avanzado",
+        "descripcion": "Un curso para diseñadores web que deseen mejorar sus habilidades en diseño y desarrollo.",
+        "instructor": "Ana Gómez",
+        "duracion_horas": 60,
+        "fecha_inicio": "2023-02-10",
+        "precio": 75.00,
+        "disponible": false,
+        "instituto": "Escuela de Diseño ABC",
+        "latitud": 23.4567,
+        "longitud": -45.6789
+    },
+    {
+        "id": 3,
+        "titulo": "Inteligencia Artificial",
+        "descripcion": "Explora los fundamentos de la inteligencia artificial y el aprendizaje automático.",
+        "instructor": "Carlos Rodríguez",
+        "duracion_horas": 50,
+        "fecha_inicio": "2023-03-05",
+        "precio": 90.00,
+        "disponible": true,
+        "instituto": "Centro de Investigación en IA",
+        "latitud": -34.5678,
+        "longitud": 56.7890
+    },
+    {
+        "id": 4,
+        "titulo": "Marketing",
+        "descripcion": "Aprende estrategias efectivas de marketing digital para promover productos y servicios en línea.",
+        "instructor": "María López",
+        "duracion_horas": 45,
+        "fecha_inicio": "2023-04-20",
+        "precio": 60.00,
+        "disponible": true,
+        "instituto": "Academia de Marketing Digital",
+        "latitud": 40.7128,
+        "longitud": -74.0060
+    }
+]
